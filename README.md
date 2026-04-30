@@ -1,6 +1,6 @@
 # Hi, I'm Rafael 👋
 
-Senior .NET Developer with strong experience building scalable backend systems and real-world applications.
+Senior .NET Developer focused on building scalable systems and solving real-world business problems.
 
 I focus on clean architecture, performance, and solving business problems through well-structured solutions.
 
@@ -9,7 +9,7 @@ I focus on clean architecture, performance, and solving business problems throug
 ## 🚀 Featured Project
 
 ### 🔹 RAC Booking
-A scalable scheduling platform designed for service-based businesses.
+A scalable scheduling platform focused on real-world constraints like availability, conflicts, and performance.
 
 - Multi-tenant ready architecture
 - Availability engine with conflict prevention
