@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Rafael 👋
 
-<!--
-**rafeseth/rafeseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior .NET Developer with strong experience building scalable backend systems and real-world applications.
 
-Here are some ideas to get you started:
+I focus on clean architecture, performance, and solving business problems through well-structured solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Project
+
+### 🔹 RAC Booking
+A scalable scheduling platform designed for service-based businesses.
+
+- Multi-tenant ready architecture
+- Availability engine with conflict prevention
+- Built with .NET 8, Angular, and PostgreSQL
+- Clean Architecture + CQRS (MediatR)
+
+👉 https://github.com/rafeseth/rac-booking
+
+---
+
+## 🧠 Tech Stack
+
+- .NET / ASP.NET Core
+- C#
+- Angular
+- PostgreSQL
+- Docker
+- Clean Architecture
+- CQRS / MediatR
+
+---
+
+## 📌 What I care about
+
+- Writing maintainable and scalable code
+- Building systems that solve real problems
+- Clean architecture and separation of concerns
+- Performance and reliability
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/rafael-medeiros-ferreira/
+Email: rafael.m.f.contato@hotmail.com
