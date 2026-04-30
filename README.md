@@ -4,7 +4,8 @@ Senior .NET Developer focused on building scalable systems and solving real-worl
 
 I focus on clean architecture, performance, and solving business problems through well-structured solutions.
 
----
+📍 Based in Brazil | Open to remote opportunities
+
 
 ## 🚀 Featured Project
 
@@ -39,6 +40,15 @@ A scalable scheduling platform focused on real-world constraints like availabili
 - Clean architecture and separation of concerns
 - Performance and reliability
 
+---
+
+## 🧠 How I think about systems
+
+- I design systems to handle real-world constraints (failures, concurrency, scaling)
+- I prioritize maintainability and long-term evolution over quick fixes
+- I focus on clear boundaries (Clean Architecture, separation of concerns)
+- I treat performance and reliability as first-class requirements
+- 
 ---
 
 ## 📫 Contact
